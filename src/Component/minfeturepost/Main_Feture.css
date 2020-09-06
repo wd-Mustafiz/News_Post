@@ -1,0 +1,26 @@
+.main-post {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)),
+    url("https://www.iprocuresecurity.eu/wp-content/uploads/2020/01/virus.png")
+      no-repeat;
+  height: 380px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  padding: 40px;
+  border-radius: 8px;
+}
+.heading {
+  font-size: 45px;
+  font-weight: bold;
+  color: white;
+  width: 70%;
+}
+.headP {
+  font-size: 20px;
+  color: white;
+  width: 80%;
+}
+a {
+  text-decoration: none;
+  color: rgb(57, 240, 240);
+}
